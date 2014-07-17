@@ -1,0 +1,19 @@
+{
+  "name": "gituser",
+  "version": "0.0.0",
+  "description": "Switches the current Git User - useful for Pair Programming",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nss-cohort-2014-06-07/gituser"
+  },
+  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nss-cohort-2014-06-07/gituser/issues"
+  },
+  "homepage": "https://github.com/nss-cohort-2014-06-07/gituser",
+  "dependencies": {
+    "sync-prompt": "^0.4.1"
+  }
+}
